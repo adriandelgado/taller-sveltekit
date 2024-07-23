@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		Hola ESPOL
 	</h1>
 
 	<h2>
